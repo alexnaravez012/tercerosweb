@@ -7,7 +7,7 @@
 }
 
 .color-blue {
-    color: #3a6193;
+    color: #3B6093;
 }
 
 .color-green {
@@ -1051,9 +1051,9 @@
 
 .input-date-third {
     border: none;
-    border-bottom: 1px solid rgb(0, 0, 182);
+    border-bottom: 1px solid #85bcff;
     width: 140px;
-    color: rgb(0, 0, 182);
+    color: #3B6093;
     margin-bottom: 10px;
     cursor: pointer;
 }
@@ -1185,10 +1185,10 @@
     outline: 0;
     border: none;
     font-size: 11px;
-    border-bottom: 1px solid rgba(2, 2, 197, 0.377) !important;
+    border-bottom: 1px solid #85bcff !important;
     border-radius: 0px;
     background: #ffffff;
-    color: rgba(2, 2, 197, 0.493);
+    color: #3B6093;
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -1543,79 +1543,13 @@
     margin-top: 100px !important;
 }
 
-.select-create-product-third {
-    position: relative;
-    display: inline-block;
-    width: 170px;
-    border: none !important;
-    margin-bottom: 21x;
-}
-
-.select-create-product-third select {
-    display: inline-block;
-    width: 100%;
-    padding-bottom: 2px;
-    cursor: pointer;
-    outline: 0;
-    border: none;
-    font-size: 11px;
-    border-bottom: 1px solid rgba(2, 2, 197, 0.5) !important;
-    border-radius: 0px;
-    background: #ffffff;
-    color: rgba(2, 2, 197, 0.5);
-    appearance: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-}
-
-.select-create-product-third select::-ms-expand {
-    display: none;
-}
-
-.select-create-product-third select:disabled {
-    opacity: 0;
-    pointer-events: none;
-}
-
-.select_arrow-create-product-third {
-    position: absolute;
-    top: 12px;
-    right: 2px;
-    pointer-events: none;
-    border-style: solid;
-    border-width: 6px 3px 0px 5px;
-    border-color: rgba(2, 2, 197, 0.404) transparent transparent transparent;
-}
-
-.select-create-product-third select:hover~.select_arrow-create-product-third,
-.select-create-product-third select:focus~.select_arrow-create-product-third {
-    border-top-color: rgba(2, 2, 197, 0.404);
-}
-
-.select-create-product-third select:disabled~.select_arrow-create-product-third {
-    border-top-color: #cccccc;
-}
-
 .navbar-search-products-re-third {
     height: 70px;
     width: 850px;
 }
 
-.input-date-third {
-    border: none;
-    border-bottom: 1px solid rgba(0, 0, 182, 0.459);
-    width: 140px;
-    color: rgba(0, 0, 182, 0.527);
-    margin-bottom: 10px;
-    cursor: pointer;
-}
-
-.input-date-third:focus {
-    outline: 0;
-}
-
 .input-date-third::placeholder {
-    color: rgba(0, 0, 182, 0.459);
+    color: #3B6093;
 }
 
 .navbar-product-select-third {
@@ -1770,7 +1704,7 @@
     border: 1px solid rgba(179, 179, 179, 0.781);
     height: 30px;
     background-color: white;
-    color: #0554bb;
+    color: #3B6093;
     border-radius: 10px;
     font-size: 11px;
     cursor: pointer;
@@ -1784,9 +1718,9 @@
 
 .input-register-user-third {
     border: none;
-    border-bottom: 1px solid rgba(0, 0, 182, 0.459);
+    border-bottom: 1px solid #85bcff;
     width: 180px;
-    color: rgba(0, 0, 182, 0.527);
+    color: #3B6093;
     cursor: pointer;
     margin-right: 25px;
     margin-bottom: 15px;
@@ -1797,7 +1731,7 @@
 }
 
 .input-register-user-third::placeholder {
-    color: rgba(0, 0, 182, 0.459);
+    color: #3B6093;
     font-size: 11px;
 }
 
